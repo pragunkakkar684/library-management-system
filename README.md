@@ -1,0 +1,1 @@
+This is my first project over the concept of OOPS using python. I have tried to cover all the 4 principles of OOPS. If there are any suggestions over the code for improvement, everyone of them is welcomed. You can contact me by my mail:- kakkarpragun.work@gmail.com
